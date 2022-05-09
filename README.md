@@ -1,8 +1,8 @@
 ### Hi there 👋. I'm Jessica Barbosa
 
 - 👩‍💻 I’m currently working in Centro Universitário Augusto Motta (UNISUAM)
-- 📚 I’m currently learning Flutter and Clean Code
-- 🎓 I'm getting my Bachelors degree in Computer Science
+- 📚 I’m currently learning Flutter, NodeJS and Clean Code com TDD
+- 🎓 Finally got my Bachelors degree in Computer Science
 - 🎮 Fun fact: I like to read and play video-games, my favorite type of games are Survival Games and RPGs.
 
 <br>
