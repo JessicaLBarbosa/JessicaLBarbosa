@@ -1,46 +1,25 @@
-### Hi there 👋. I'm Jessica Barbosa
+# 💫 About Me:
+🔭 I’m currently working on API creation with Nodejs and mobile aplications with Flutter<br>👯 I’m looking to collaborate on any projects where i can learn something<br>🤝 I’m looking for help with Nodejs and Flutter<br>🌱 I’m currently learning React<br>⚡ Fun fact, in my down time I like to read some nice book or play some video-game with my friends
 
-- 👩‍💻 I’m currently working in Centro Universitário Augusto Motta (UNISUAM)
-- 📚 I’m currently learning Flutter, NodeJS and Clean Code com TDD
-- 🎓 Finally got my Bachelors degree in Computer Science
-- 🎮 Fun fact: I like to read and play video-games, my favorite type of games are Survival Games and RPGs.
 
-<br>
-<div>
-  <a href="https://github.com/JessicaLBarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaLBarbosa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaLBarbosa&layout=compact&langs_count=10&theme=aura"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="JessicaLBarbosa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JessicaLBarbosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JessicaLBarbosa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JessicaLBarbosa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jess.lessa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicalessabarbosa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](@https://medium.com/@lbarbosa.jessica) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/j3ss1c4b4rb0s4) 
 
-## Social Media
-<div>
-  <a href="https://www.instagram.com/jess.lessa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/JessicaLessaBa1" target="_blank"><img src="https://img.shields.io/badge/Twitter-9146FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   <a href = "mailto:lbarbosa.jessica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jessicalessabarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JessicaLBarbosa&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JessicaLBarbosa&theme=omni&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaLBarbosa&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JessicaLBarbosa&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JessicaLBarbosa&icon=2&color=4)](https://visitcount.itsvg.in)
 
   
-</div>
-
-
-<!--
-**JessicaLBarbosa/JessicaLBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
