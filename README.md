@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on API creation with Nodejs and mobile aplications with Flutter<br>👯 I’m looking to collaborate on any projects where i can learn something<br>🤝 I’m looking for help with Nodejs and Flutter<br>🌱 I’m currently learning React<br>⚡ Fun fact, in my down time I like to read some nice book or play some video-game with my friends
+💼 I'm currently employed at SOCIEDADE UNIFICADA DE ENSINO AUGUSTO MOTTA (UNISUAM)<br>🔭 I’m currently working on API creation with Nodejs and mobile aplications with Flutter<br>👯 I’m looking to collaborate on any projects where i can learn something<br>🤝 I’m looking for help with Nodejs and Flutter<br>🌱 I’m currently learning React<br>⚡ Fun fact, in my down time I like to read some nice book or play some video-game with my friends
 
 
 ## 🌐 Socials:
